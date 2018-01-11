@@ -1,5 +1,5 @@
 # Instruction To Offset
-Converting Instruction byte code to offset on MacOS
+Extracting offset from instruction byte code on MacOS
 
 This is simple MacOS/OSX reverse engineering tool to extract offset from instruction on specified address.
 
